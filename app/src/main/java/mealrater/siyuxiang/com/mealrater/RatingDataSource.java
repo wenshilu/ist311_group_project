@@ -6,8 +6,11 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
 import android.database.SQLException;
+<<<<<<< HEAD
 
 import java.lang.reflect.Array;
+=======
+>>>>>>> 3cd84a0e98a62a0cdb84c0e2093d7b262375f155
 import java.util.ArrayList;
 
 public class RatingDataSource {
@@ -15,7 +18,10 @@ public class RatingDataSource {
     private SQLiteDatabase database;
     private RatingDBHelper dbHelper;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3cd84a0e98a62a0cdb84c0e2093d7b262375f155
     public RatingDataSource (Context context) {
         dbHelper = new RatingDBHelper(context);
     }
@@ -98,6 +104,9 @@ public class RatingDataSource {
         }
         return lastId;
     }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3cd84a0e98a62a0cdb84c0e2093d7b262375f155
 }

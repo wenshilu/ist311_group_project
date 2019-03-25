@@ -25,5 +25,8 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+<<<<<<< HEAD
     implementation 'com.android.support:design:28.0.0'
+=======
+>>>>>>> 3cd84a0e98a62a0cdb84c0e2093d7b262375f155
 }

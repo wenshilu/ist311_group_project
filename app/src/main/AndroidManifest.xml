@@ -16,7 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".RatingActivity" />
+=======
+>>>>>>> 3cd84a0e98a62a0cdb84c0e2093d7b262375f155
     </application>
 
 </manifest>
